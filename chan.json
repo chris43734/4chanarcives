@@ -96,8 +96,8 @@
   "http": false,
   "https": true,
   "software": "foolfuuka",
-  "boards": ["3", "a", aco", "adv", "an", "asp", "b", "biz", "c", "cgl", "ck", "cm", "co", "d", "diy", "e", "fa", "fit", "g", "gd", "gif", "h", "hc", "his", "hm", "hr", "i", "ic", "int", "jp", "k", "lgbt", "lit", "m", "mlp", "mu", "n", "news", "o", "out", "p", "po", "pol", "qa", "r", "r9k", "s", "s4s", "sci", "soc", "sp", "t", "toy", "trash", "trv", "tv ", "u", "v", "vg", "vp", "vr", "w", "wg", "wsg", "wsr", "x", "y"],
-  "files": ["3", "a", aco", "adv", "an", "asp", "b", "biz", "c", "cgl", "ck", "cm", "co", "d", "diy", "e", "fa", "fit", "g", "gd", "gif", "h", "hc", "his", "hm", "hr", "i", "ic", "int", "jp", "k", "lgbt", "lit", "m", "mlp", "mu", "n", "news", "o", "out", "p", "po", "pol", "qa", "r", "r9k", "s", "s4s", "sci", "soc", "sp", "t", "toy", "trash", "trv", "tv ", "u", "v", "vg", "vp", "vr", "w", "wg", "wsg", "wsr", "x", "y"],
+  "boards": ["3", "a", "aco", "adv", "an", "asp", "b", "biz", "c", "cgl", "ck", "cm", "co", "d", "diy", "e", "fa", "fit", "g", "gd", "gif", "h", "hc", "his", "hm", "hr", "i", "ic", "int", "jp", "k", "lgbt", "lit", "m", "mlp", "mu", "n", "news", "o", "out", "p", "po", "pol", "qa", "r", "r9k", "s", "s4s", "sci", "soc", "sp", "t", "toy", "trash", "trv", "tv ", "u", "v", "vg", "vp", "vr", "w", "wg", "wsg", "wsr", "x", "y"],
+  "files": ["3", "a", "aco", "adv", "an", "asp", "b", "biz", "c", "cgl", "ck", "cm", "co", "d", "diy", "e", "fa", "fit", "g", "gd", "gif", "h", "hc", "his", "hm", "hr", "i", "ic", "int", "jp", "k", "lgbt", "lit", "m", "mlp", "mu", "n", "news", "o", "out", "p", "po", "pol", "qa", "r", "r9k", "s", "s4s", "sci", "soc", "sp", "t", "toy", "trash", "trv", "tv ", "u", "v", "vg", "vp", "vr", "w", "wg", "wsg", "wsr", "x", "y"],
   "reports": true
 }, {
   "uid": 36,
